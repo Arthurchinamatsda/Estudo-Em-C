@@ -7,13 +7,14 @@
 - nao crie bibliotecas do 0, estude as bibliotecas ja existentes
 * *nao entendi como funciona os ponteiros?*
 * *ptr, quando ha um asterisco guarda o valor do endereco guardado 
-``*ptr = 30;`
+`*ptr = 30;`
 isso guarda o 30 na variavel do endereço guardado no ponteiro
 * ptr, sem o asterisco do ponteiro, ele é apenas o endereco da memoria da variavel
   `ptr = &variavel;`
 - o & mostra o endereco da memoria da variavel
  isso guarda  o endereco da variavel dentro da memoria do ponteiro
- 
+ `scanf("%d", &num1);`
+ exemplo de uso do &, ele pega o valor do scanf e escreve na memoria da variavel num1
 
 ##nao esqueça de usar
 - long
