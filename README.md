@@ -1,6 +1,6 @@
-#Estudando C e o basico de git com um brinde de linux
->esse texto é pra mim, vou registrar tudo oq aprendi
-##notas 
+# Estudando C e o basico de git com um brinde de linux
+>esse texto é pra mim, vou registrar tudo oq aprendi<
+## notas 
 - gcc é compilador para execultavel para o pc.
 - `gcc programa.c -o programaExecultavel`
 - nao esqueça do ; no final da linha
@@ -16,13 +16,13 @@ isso guarda o 30 na variavel do endereço guardado no ponteiro
  `scanf("%d", &num1);`
  exemplo de uso do &, ele pega o valor do scanf e escreve na memoria da variavel num1
 
-##nao esqueça de usar
+## nao esqueça de usar
 - long
 - puts
 - fget(pao, 10, stdin);
 - char
 
-##git
+## git
 - aprende a usar gitignore
 - nunca force nada
 - `git init` pra iniciar um repositorio
@@ -31,11 +31,11 @@ isso guarda o 30 na variavel do endereço guardado no ponteiro
 - `git commit -m "mensagem"` cria o commit e deixa uma mensagem
 - aprende a escrever as mensagens igual gente normal...
 - `git push`joga tudo que foi feito o commit para o github
-###gh
+### gh
 - `gh auth login`
 - `gh repo create nome-do-diretorio`
 
-##linux(ternux)
+## linux(ternux)
 - cd navega pelos diretorios
 - echo cria arquivis e add coisas nele
 - nano edita arquivos
